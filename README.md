@@ -1,4 +1,6 @@
 # Car Controlled by Bluetooth & Infrared Remote
+<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/979440f2-35dd-4002-88d0-d387e2a0663a" width="500">
+
 ## Components
 |       Product       |      Quantity        | Picture     |
 | :------------|:-------------:|:-----:|
@@ -8,7 +10,7 @@
 |Infrared Sensor VS1838 HX1838B| 1|<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/e939524e-6b98-4792-bfff-425bb844a8b8" width="50" alt="infrared" />|
 |Remote IR1838| 1|<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/723aaa04-215f-4b20-819c-f7fe48d1e800" width="50" alt="remote" />|
 |Vehicle Frame| 1|<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/832dea0a-6c7f-4cc1-aead-42505a452309" width="50" alt="vehicle frame" />|
-|Battery Lithium Ion| 4|<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/9367fe08-9c9c-46ac-9452-7b396027bfb8" width="50" alt="battery" />|
+|Battery Lithium Ion| 3|<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/9367fe08-9c9c-46ac-9452-7b396027bfb8" width="50" alt="battery" />|
 |Bus Wire| -|<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/96db7454-f836-4010-974d-d414d699d1b7" width="50" alt="bus wire" />|
 ## System Design and Construction
 ### System Block Diagram
