@@ -1,0 +1,28 @@
+Install Arduino IDE: https://www.arduino.cc/en/software
+Download Arduino-IRremote library: https://github.com/shirriff/Arduino-IRremote/ 
+
+After downloading the library, open the Arduino IDE, select Sketch → Import Library… → Add Library…, then choose the downloaded .zip file to add the library and use it.
+---------------------------------------------------------------------------------------------------------------------------------------
+After uploading the remote-decoder.ino, open the Serial Monitor window and press the buttons on the remote to capture the signals. Below are the corresponding values for the buttons on the IR1838 remote:
+
+FFA25D : CH-
+FF629D : CH
+FFE21D : CH+
+FF22DD : |<<
+FF02FD : >>| 
+FFC23D : >||
+FFE01F  : -
+FFA857 : +
+FF906F : EQ
+FF6897 : 0
+FF9867 : 100+
+FFB04F : 200+
+FF30CF : 1
+FF18E7 : 2
+FF7A85 : 3
+FF10EF : 4
+FF38C7 : 5
+FF5AA5 : 6
+FF42BD : 7
+FF4AB5 : 8
+FF52AD : 9
