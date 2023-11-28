@@ -20,7 +20,10 @@
 <img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/52e7d803-7ec4-4633-a87a-89b6fc8935d5" width="500">
 
 ## System Controller
-### Smartphone
+### Smartphone (App)
+Designed on [MIT App Inventor](https://appinventor.mit.edu/)
+
+<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/935300b9-e531-412f-8918-f33c3f4b7071" width="500">
 
 ### Infrared Remote
 |<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/d29c4525-4eb3-423f-9e75-618ed00856fd" width="200">|(1): Forward - (2): Backward - (3): Turn Right - (4): Turn Left - (5): Stop|
