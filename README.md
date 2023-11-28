@@ -4,7 +4,7 @@
 ## Components
 |       Product       |      Quantity        | Picture     |
 | :------------|:-------------:|:-----:|
-|Arduino UNO R3| 1|<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/af2ecd53-738a-4784-a4e1-3b9046e20859" width="50" alt="arduino uno r3" />|
+|Arduino UNO R3| 1|<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/af2ecd53-738a-4784-a4e1-3b9046e20859" width="50" alt="Arduino uno r3" />|
 |Motor Driver L298N| 1|<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/031f1cd8-c603-4ce0-ac5f-22dd8a2ec492" width="50" alt="l298n" />|
 |Module Bluetooth HC-05| 1|<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/ccd3d4f2-4233-4cfb-8d86-7844ace67704" width="50" alt="hc05" />|
 |Infrared Sensor VS1838 HX1838B| 1|<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/e939524e-6b98-4792-bfff-425bb844a8b8" width="50" alt="infrared" />|
@@ -19,6 +19,11 @@
 ### System Principle Diagram
 <img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/52e7d803-7ec4-4633-a87a-89b6fc8935d5" width="500">
 
+## System Controller
+### Smartphone
 
+### Infrared Remote
+|<img src="https://github.com/hdtruong802/Car-Controlled-by-Bluetooth-and-Infrared-Remote/assets/88237323/d29c4525-4eb3-423f-9e75-618ed00856fd" width="200">|(1): Forward - (2): Backward - (3): Turn Right - (4): Turn Left - (5): Stop|
+| :------------|:-------------:|
 
 
